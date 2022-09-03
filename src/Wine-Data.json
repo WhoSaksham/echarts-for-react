@@ -9,7 +9,7 @@
     "Flavanoids": 2.8,
     "Nonflavanoid phenols": 3.06,
     "Proanthocyanins": ".28",
-    "Color intensity": 2.29,
+    "ColorIntensity": 2.29,
     "Hue": 5.64,
     "OD280/OD315 of diluted wines": 1.04,
     "Unknown": 3.92
@@ -24,7 +24,7 @@
     "Flavanoids": 2.65,
     "Nonflavanoid phenols": 2.76,
     "Proanthocyanins": ".26",
-    "Color intensity": 1.28,
+    "ColorIntensity": 1.28,
     "Hue": 4.38,
     "OD280/OD315 of diluted wines": 1.05,
     "Unknown": 3.4
@@ -39,7 +39,7 @@
     "Flavanoids": 2.8,
     "Nonflavanoid phenols": 3.24,
     "Proanthocyanins": ".3",
-    "Color intensity": 2.81,
+    "ColorIntensity": 2.81,
     "Hue": 5.68,
     "OD280/OD315 of diluted wines": 1.03,
     "Unknown": 3.17
@@ -54,7 +54,7 @@
     "Flavanoids": 3.85,
     "Nonflavanoid phenols": 3.49,
     "Proanthocyanins": ".24",
-    "Color intensity": 2.18,
+    "ColorIntensity": 2.18,
     "Hue": 7.8,
     "OD280/OD315 of diluted wines": ".86",
     "Unknown": 3.45
@@ -69,7 +69,7 @@
     "Flavanoids": 2.8,
     "Nonflavanoid phenols": 2.69,
     "Proanthocyanins": ".39",
-    "Color intensity": 1.82,
+    "ColorIntensity": 1.82,
     "Hue": 4.32,
     "OD280/OD315 of diluted wines": 1.04,
     "Unknown": 2.93
@@ -84,7 +84,7 @@
     "Flavanoids": 3.27,
     "Nonflavanoid phenols": 3.39,
     "Proanthocyanins": ".34",
-    "Color intensity": 1.97,
+    "ColorIntensity": 1.97,
     "Hue": 6.75,
     "OD280/OD315 of diluted wines": 1.05,
     "Unknown": 2.85
@@ -99,7 +99,7 @@
     "Flavanoids": 2.5,
     "Nonflavanoid phenols": 2.52,
     "Proanthocyanins": ".3",
-    "Color intensity": 1.98,
+    "ColorIntensity": 1.98,
     "Hue": 5.25,
     "OD280/OD315 of diluted wines": 1.02,
     "Unknown": 3.58
@@ -114,7 +114,7 @@
     "Flavanoids": 2.6,
     "Nonflavanoid phenols": 2.51,
     "Proanthocyanins": ".31",
-    "Color intensity": 1.25,
+    "ColorIntensity": 1.25,
     "Hue": 5.05,
     "OD280/OD315 of diluted wines": 1.06,
     "Unknown": 3.58
@@ -129,7 +129,7 @@
     "Flavanoids": 2.8,
     "Nonflavanoid phenols": 2.98,
     "Proanthocyanins": ".29",
-    "Color intensity": 1.98,
+    "ColorIntensity": 1.98,
     "Hue": 5.2,
     "OD280/OD315 of diluted wines": 1.08,
     "Unknown": 2.85
@@ -144,7 +144,7 @@
     "Flavanoids": 2.98,
     "Nonflavanoid phenols": 3.15,
     "Proanthocyanins": ".22",
-    "Color intensity": 1.85,
+    "ColorIntensity": 1.85,
     "Hue": 7.22,
     "OD280/OD315 of diluted wines": 1.01,
     "Unknown": 3.55
@@ -159,7 +159,7 @@
     "Flavanoids": 2.95,
     "Nonflavanoid phenols": 3.32,
     "Proanthocyanins": ".22",
-    "Color intensity": 2.38,
+    "ColorIntensity": 2.38,
     "Hue": 5.75,
     "OD280/OD315 of diluted wines": 1.25,
     "Unknown": 3.17
@@ -174,7 +174,7 @@
     "Flavanoids": 2.2,
     "Nonflavanoid phenols": 2.43,
     "Proanthocyanins": ".26",
-    "Color intensity": 1.57,
+    "ColorIntensity": 1.57,
     "Hue": 5,
     "OD280/OD315 of diluted wines": 1.17,
     "Unknown": 2.82
@@ -189,7 +189,7 @@
     "Flavanoids": 2.6,
     "Nonflavanoid phenols": 2.76,
     "Proanthocyanins": ".29",
-    "Color intensity": 1.81,
+    "ColorIntensity": 1.81,
     "Hue": 5.6,
     "OD280/OD315 of diluted wines": 1.15,
     "Unknown": 2.9
@@ -204,7 +204,7 @@
     "Flavanoids": 3.1,
     "Nonflavanoid phenols": 3.69,
     "Proanthocyanins": ".43",
-    "Color intensity": 2.81,
+    "ColorIntensity": 2.81,
     "Hue": 5.4,
     "OD280/OD315 of diluted wines": 1.25,
     "Unknown": 2.73
@@ -219,7 +219,7 @@
     "Flavanoids": 3.3,
     "Nonflavanoid phenols": 3.64,
     "Proanthocyanins": ".29",
-    "Color intensity": 2.96,
+    "ColorIntensity": 2.96,
     "Hue": 7.5,
     "OD280/OD315 of diluted wines": 1.2,
     "Unknown": 3
@@ -234,7 +234,7 @@
     "Flavanoids": 2.85,
     "Nonflavanoid phenols": 2.91,
     "Proanthocyanins": ".3",
-    "Color intensity": 1.46,
+    "ColorIntensity": 1.46,
     "Hue": 7.3,
     "OD280/OD315 of diluted wines": 1.28,
     "Unknown": 2.88
@@ -249,7 +249,7 @@
     "Flavanoids": 2.8,
     "Nonflavanoid phenols": 3.14,
     "Proanthocyanins": ".33",
-    "Color intensity": 1.97,
+    "ColorIntensity": 1.97,
     "Hue": 6.2,
     "OD280/OD315 of diluted wines": 1.07,
     "Unknown": 2.65
@@ -264,7 +264,7 @@
     "Flavanoids": 2.95,
     "Nonflavanoid phenols": 3.4,
     "Proanthocyanins": ".4",
-    "Color intensity": 1.72,
+    "ColorIntensity": 1.72,
     "Hue": 6.6,
     "OD280/OD315 of diluted wines": 1.13,
     "Unknown": 2.57
@@ -279,7 +279,7 @@
     "Flavanoids": 3.3,
     "Nonflavanoid phenols": 3.93,
     "Proanthocyanins": ".32",
-    "Color intensity": 1.86,
+    "ColorIntensity": 1.86,
     "Hue": 8.7,
     "OD280/OD315 of diluted wines": 1.23,
     "Unknown": 2.82
@@ -294,7 +294,7 @@
     "Flavanoids": 2.7,
     "Nonflavanoid phenols": 3.03,
     "Proanthocyanins": ".17",
-    "Color intensity": 1.66,
+    "ColorIntensity": 1.66,
     "Hue": 5.1,
     "OD280/OD315 of diluted wines": ".96",
     "Unknown": 3.36
@@ -309,7 +309,7 @@
     "Flavanoids": 3,
     "Nonflavanoid phenols": 3.17,
     "Proanthocyanins": ".24",
-    "Color intensity": 2.1,
+    "ColorIntensity": 2.1,
     "Hue": 5.65,
     "OD280/OD315 of diluted wines": 1.09,
     "Unknown": 3.71
@@ -324,7 +324,7 @@
     "Flavanoids": 2.41,
     "Nonflavanoid phenols": 2.41,
     "Proanthocyanins": ".25",
-    "Color intensity": 1.98,
+    "ColorIntensity": 1.98,
     "Hue": 4.5,
     "OD280/OD315 of diluted wines": 1.03,
     "Unknown": 3.52
@@ -339,7 +339,7 @@
     "Flavanoids": 2.61,
     "Nonflavanoid phenols": 2.88,
     "Proanthocyanins": ".27",
-    "Color intensity": 1.69,
+    "ColorIntensity": 1.69,
     "Hue": 3.8,
     "OD280/OD315 of diluted wines": 1.11,
     "Unknown": 4
@@ -354,7 +354,7 @@
     "Flavanoids": 2.48,
     "Nonflavanoid phenols": 2.37,
     "Proanthocyanins": ".26",
-    "Color intensity": 1.46,
+    "ColorIntensity": 1.46,
     "Hue": 3.93,
     "OD280/OD315 of diluted wines": 1.09,
     "Unknown": 3.63
@@ -369,7 +369,7 @@
     "Flavanoids": 2.53,
     "Nonflavanoid phenols": 2.61,
     "Proanthocyanins": ".28",
-    "Color intensity": 1.66,
+    "ColorIntensity": 1.66,
     "Hue": 3.52,
     "OD280/OD315 of diluted wines": 1.12,
     "Unknown": 3.82
@@ -384,7 +384,7 @@
     "Flavanoids": 2.63,
     "Nonflavanoid phenols": 2.68,
     "Proanthocyanins": ".47",
-    "Color intensity": 1.92,
+    "ColorIntensity": 1.92,
     "Hue": 3.58,
     "OD280/OD315 of diluted wines": 1.13,
     "Unknown": 3.2
@@ -399,7 +399,7 @@
     "Flavanoids": 2.85,
     "Nonflavanoid phenols": 2.94,
     "Proanthocyanins": ".34",
-    "Color intensity": 1.45,
+    "ColorIntensity": 1.45,
     "Hue": 4.8,
     "OD280/OD315 of diluted wines": ".92",
     "Unknown": 3.22
@@ -414,7 +414,7 @@
     "Flavanoids": 2.4,
     "Nonflavanoid phenols": 2.19,
     "Proanthocyanins": ".27",
-    "Color intensity": 1.35,
+    "ColorIntensity": 1.35,
     "Hue": 3.95,
     "OD280/OD315 of diluted wines": 1.02,
     "Unknown": 2.77
@@ -429,7 +429,7 @@
     "Flavanoids": 2.95,
     "Nonflavanoid phenols": 2.97,
     "Proanthocyanins": ".37",
-    "Color intensity": 1.76,
+    "ColorIntensity": 1.76,
     "Hue": 4.5,
     "OD280/OD315 of diluted wines": 1.25,
     "Unknown": 3.4
@@ -444,7 +444,7 @@
     "Flavanoids": 2.65,
     "Nonflavanoid phenols": 2.33,
     "Proanthocyanins": ".26",
-    "Color intensity": 1.98,
+    "ColorIntensity": 1.98,
     "Hue": 4.7,
     "OD280/OD315 of diluted wines": 1.04,
     "Unknown": 3.59
@@ -459,7 +459,7 @@
     "Flavanoids": 3,
     "Nonflavanoid phenols": 3.25,
     "Proanthocyanins": ".29",
-    "Color intensity": 2.38,
+    "ColorIntensity": 2.38,
     "Hue": 5.7,
     "OD280/OD315 of diluted wines": 1.19,
     "Unknown": 2.71
@@ -474,7 +474,7 @@
     "Flavanoids": 2.86,
     "Nonflavanoid phenols": 3.19,
     "Proanthocyanins": ".22",
-    "Color intensity": 1.95,
+    "ColorIntensity": 1.95,
     "Hue": 6.9,
     "OD280/OD315 of diluted wines": 1.09,
     "Unknown": 2.88
@@ -489,7 +489,7 @@
     "Flavanoids": 2.42,
     "Nonflavanoid phenols": 2.69,
     "Proanthocyanins": ".42",
-    "Color intensity": 1.97,
+    "ColorIntensity": 1.97,
     "Hue": 3.84,
     "OD280/OD315 of diluted wines": 1.23,
     "Unknown": 2.87
@@ -504,7 +504,7 @@
     "Flavanoids": 2.95,
     "Nonflavanoid phenols": 2.74,
     "Proanthocyanins": ".5",
-    "Color intensity": 1.35,
+    "ColorIntensity": 1.35,
     "Hue": 5.4,
     "OD280/OD315 of diluted wines": 1.25,
     "Unknown": 3
@@ -519,7 +519,7 @@
     "Flavanoids": 2.35,
     "Nonflavanoid phenols": 2.53,
     "Proanthocyanins": ".29",
-    "Color intensity": 1.54,
+    "ColorIntensity": 1.54,
     "Hue": 4.2,
     "OD280/OD315 of diluted wines": 1.1,
     "Unknown": 2.87
@@ -534,7 +534,7 @@
     "Flavanoids": 2.7,
     "Nonflavanoid phenols": 2.98,
     "Proanthocyanins": ".26",
-    "Color intensity": 1.86,
+    "ColorIntensity": 1.86,
     "Hue": 5.1,
     "OD280/OD315 of diluted wines": 1.04,
     "Unknown": 3.47
@@ -549,7 +549,7 @@
     "Flavanoids": 2.6,
     "Nonflavanoid phenols": 2.68,
     "Proanthocyanins": ".34",
-    "Color intensity": 1.36,
+    "ColorIntensity": 1.36,
     "Hue": 4.6,
     "OD280/OD315 of diluted wines": 1.09,
     "Unknown": 2.78
@@ -564,7 +564,7 @@
     "Flavanoids": 2.45,
     "Nonflavanoid phenols": 2.43,
     "Proanthocyanins": ".29",
-    "Color intensity": 1.44,
+    "ColorIntensity": 1.44,
     "Hue": 4.25,
     "OD280/OD315 of diluted wines": 1.12,
     "Unknown": 2.51
@@ -579,7 +579,7 @@
     "Flavanoids": 2.4,
     "Nonflavanoid phenols": 2.64,
     "Proanthocyanins": ".28",
-    "Color intensity": 1.37,
+    "ColorIntensity": 1.37,
     "Hue": 3.7,
     "OD280/OD315 of diluted wines": 1.18,
     "Unknown": 2.69
@@ -594,7 +594,7 @@
     "Flavanoids": 3,
     "Nonflavanoid phenols": 3.04,
     "Proanthocyanins": ".2",
-    "Color intensity": 2.08,
+    "ColorIntensity": 2.08,
     "Hue": 5.1,
     "OD280/OD315 of diluted wines": ".89",
     "Unknown": 3.53
@@ -609,7 +609,7 @@
     "Flavanoids": 3.15,
     "Nonflavanoid phenols": 3.29,
     "Proanthocyanins": ".34",
-    "Color intensity": 2.34,
+    "ColorIntensity": 2.34,
     "Hue": 6.13,
     "OD280/OD315 of diluted wines": ".95",
     "Unknown": 3.38
@@ -624,7 +624,7 @@
     "Flavanoids": 2.45,
     "Nonflavanoid phenols": 2.68,
     "Proanthocyanins": ".27",
-    "Color intensity": 1.48,
+    "ColorIntensity": 1.48,
     "Hue": 4.28,
     "OD280/OD315 of diluted wines": ".91",
     "Unknown": 3
@@ -639,7 +639,7 @@
     "Flavanoids": 3.25,
     "Nonflavanoid phenols": 3.56,
     "Proanthocyanins": ".17",
-    "Color intensity": 1.7,
+    "ColorIntensity": 1.7,
     "Hue": 5.43,
     "OD280/OD315 of diluted wines": ".88",
     "Unknown": 3.56
@@ -654,7 +654,7 @@
     "Flavanoids": 2.64,
     "Nonflavanoid phenols": 2.63,
     "Proanthocyanins": ".32",
-    "Color intensity": 1.66,
+    "ColorIntensity": 1.66,
     "Hue": 4.36,
     "OD280/OD315 of diluted wines": ".82",
     "Unknown": 3
@@ -669,7 +669,7 @@
     "Flavanoids": 3,
     "Nonflavanoid phenols": 3,
     "Proanthocyanins": ".28",
-    "Color intensity": 2.03,
+    "ColorIntensity": 2.03,
     "Hue": 5.04,
     "OD280/OD315 of diluted wines": ".88",
     "Unknown": 3.35
@@ -684,7 +684,7 @@
     "Flavanoids": 2.85,
     "Nonflavanoid phenols": 2.65,
     "Proanthocyanins": ".3",
-    "Color intensity": 1.25,
+    "ColorIntensity": 1.25,
     "Hue": 5.24,
     "OD280/OD315 of diluted wines": ".87",
     "Unknown": 3.33
@@ -699,7 +699,7 @@
     "Flavanoids": 3.25,
     "Nonflavanoid phenols": 3.17,
     "Proanthocyanins": ".27",
-    "Color intensity": 2.19,
+    "ColorIntensity": 2.19,
     "Hue": 4.9,
     "OD280/OD315 of diluted wines": 1.04,
     "Unknown": 3.44
@@ -714,7 +714,7 @@
     "Flavanoids": 3.1,
     "Nonflavanoid phenols": 3.39,
     "Proanthocyanins": ".21",
-    "Color intensity": 2.14,
+    "ColorIntensity": 2.14,
     "Hue": 6.1,
     "OD280/OD315 of diluted wines": ".91",
     "Unknown": 3.33
@@ -729,7 +729,7 @@
     "Flavanoids": 2.75,
     "Nonflavanoid phenols": 2.92,
     "Proanthocyanins": ".32",
-    "Color intensity": 2.38,
+    "ColorIntensity": 2.38,
     "Hue": 6.2,
     "OD280/OD315 of diluted wines": 1.07,
     "Unknown": 2.75
@@ -744,7 +744,7 @@
     "Flavanoids": 2.88,
     "Nonflavanoid phenols": 3.54,
     "Proanthocyanins": ".32",
-    "Color intensity": 2.08,
+    "ColorIntensity": 2.08,
     "Hue": 8.9,
     "OD280/OD315 of diluted wines": 1.12,
     "Unknown": 3.1
@@ -759,7 +759,7 @@
     "Flavanoids": 2.72,
     "Nonflavanoid phenols": 3.27,
     "Proanthocyanins": ".17",
-    "Color intensity": 2.91,
+    "ColorIntensity": 2.91,
     "Hue": 7.2,
     "OD280/OD315 of diluted wines": 1.12,
     "Unknown": 2.91
@@ -774,7 +774,7 @@
     "Flavanoids": 2.45,
     "Nonflavanoid phenols": 2.99,
     "Proanthocyanins": ".22",
-    "Color intensity": 2.29,
+    "ColorIntensity": 2.29,
     "Hue": 5.6,
     "OD280/OD315 of diluted wines": 1.24,
     "Unknown": 3.37
@@ -789,7 +789,7 @@
     "Flavanoids": 3.88,
     "Nonflavanoid phenols": 3.74,
     "Proanthocyanins": ".32",
-    "Color intensity": 1.87,
+    "ColorIntensity": 1.87,
     "Hue": 7.05,
     "OD280/OD315 of diluted wines": 1.01,
     "Unknown": 3.26
@@ -804,7 +804,7 @@
     "Flavanoids": 3,
     "Nonflavanoid phenols": 2.79,
     "Proanthocyanins": ".39",
-    "Color intensity": 1.68,
+    "ColorIntensity": 1.68,
     "Hue": 6.3,
     "OD280/OD315 of diluted wines": 1.13,
     "Unknown": 2.93
@@ -819,7 +819,7 @@
     "Flavanoids": 2.6,
     "Nonflavanoid phenols": 2.9,
     "Proanthocyanins": ".21",
-    "Color intensity": 1.62,
+    "ColorIntensity": 1.62,
     "Hue": 5.85,
     "OD280/OD315 of diluted wines": ".92",
     "Unknown": 3.2
@@ -834,7 +834,7 @@
     "Flavanoids": 2.96,
     "Nonflavanoid phenols": 2.78,
     "Proanthocyanins": ".2",
-    "Color intensity": 2.45,
+    "ColorIntensity": 2.45,
     "Hue": 6.25,
     "OD280/OD315 of diluted wines": ".98",
     "Unknown": 3.03
@@ -849,7 +849,7 @@
     "Flavanoids": 3.2,
     "Nonflavanoid phenols": 3,
     "Proanthocyanins": ".26",
-    "Color intensity": 2.03,
+    "ColorIntensity": 2.03,
     "Hue": 6.38,
     "OD280/OD315 of diluted wines": ".94",
     "Unknown": 3.31
@@ -864,7 +864,7 @@
     "Flavanoids": 3,
     "Nonflavanoid phenols": 3.23,
     "Proanthocyanins": ".31",
-    "Color intensity": 1.66,
+    "ColorIntensity": 1.66,
     "Hue": 6,
     "OD280/OD315 of diluted wines": 1.07,
     "Unknown": 2.84
@@ -879,7 +879,7 @@
     "Flavanoids": 3.4,
     "Nonflavanoid phenols": 3.67,
     "Proanthocyanins": ".19",
-    "Color intensity": 2.04,
+    "ColorIntensity": 2.04,
     "Hue": 6.8,
     "OD280/OD315 of diluted wines": ".89",
     "Unknown": 2.87
@@ -894,7 +894,7 @@
     "Flavanoids": 1.98,
     "Nonflavanoid phenols": ".57",
     "Proanthocyanins": ".28",
-    "Color intensity": ".42",
+    "ColorIntensity": ".42",
     "Hue": 1.95,
     "OD280/OD315 of diluted wines": 1.05,
     "Unknown": 1.82
@@ -909,7 +909,7 @@
     "Flavanoids": 2.05,
     "Nonflavanoid phenols": 1.09,
     "Proanthocyanins": ".63",
-    "Color intensity": ".41",
+    "ColorIntensity": ".41",
     "Hue": 3.27,
     "OD280/OD315 of diluted wines": 1.25,
     "Unknown": 1.67
@@ -924,7 +924,7 @@
     "Flavanoids": 2.02,
     "Nonflavanoid phenols": 1.41,
     "Proanthocyanins": ".53",
-    "Color intensity": ".62",
+    "ColorIntensity": ".62",
     "Hue": 5.75,
     "OD280/OD315 of diluted wines": ".98",
     "Unknown": 1.59
@@ -939,7 +939,7 @@
     "Flavanoids": 2.1,
     "Nonflavanoid phenols": 1.79,
     "Proanthocyanins": ".32",
-    "Color intensity": ".73",
+    "ColorIntensity": ".73",
     "Hue": 3.8,
     "OD280/OD315 of diluted wines": 1.23,
     "Unknown": 2.46
@@ -954,7 +954,7 @@
     "Flavanoids": 3.5,
     "Nonflavanoid phenols": 3.1,
     "Proanthocyanins": ".19",
-    "Color intensity": 1.87,
+    "ColorIntensity": 1.87,
     "Hue": 4.45,
     "OD280/OD315 of diluted wines": 1.22,
     "Unknown": 2.87
@@ -969,7 +969,7 @@
     "Flavanoids": 1.89,
     "Nonflavanoid phenols": 1.75,
     "Proanthocyanins": ".45",
-    "Color intensity": 1.03,
+    "ColorIntensity": 1.03,
     "Hue": 2.95,
     "OD280/OD315 of diluted wines": 1.45,
     "Unknown": 2.23
@@ -984,7 +984,7 @@
     "Flavanoids": 2.42,
     "Nonflavanoid phenols": 2.65,
     "Proanthocyanins": ".37",
-    "Color intensity": 2.08,
+    "ColorIntensity": 2.08,
     "Hue": 4.6,
     "OD280/OD315 of diluted wines": 1.19,
     "Unknown": 2.3
@@ -999,7 +999,7 @@
     "Flavanoids": 2.98,
     "Nonflavanoid phenols": 3.18,
     "Proanthocyanins": ".26",
-    "Color intensity": 2.28,
+    "ColorIntensity": 2.28,
     "Hue": 5.3,
     "OD280/OD315 of diluted wines": 1.12,
     "Unknown": 3.18
@@ -1014,7 +1014,7 @@
     "Flavanoids": 2.11,
     "Nonflavanoid phenols": 2,
     "Proanthocyanins": ".27",
-    "Color intensity": 1.04,
+    "ColorIntensity": 1.04,
     "Hue": 4.68,
     "OD280/OD315 of diluted wines": 1.12,
     "Unknown": 3.48
@@ -1029,7 +1029,7 @@
     "Flavanoids": 2.53,
     "Nonflavanoid phenols": 1.3,
     "Proanthocyanins": ".55",
-    "Color intensity": ".42",
+    "ColorIntensity": ".42",
     "Hue": 3.17,
     "OD280/OD315 of diluted wines": 1.02,
     "Unknown": 1.93
@@ -1044,7 +1044,7 @@
     "Flavanoids": 1.85,
     "Nonflavanoid phenols": 1.28,
     "Proanthocyanins": ".14",
-    "Color intensity": 2.5,
+    "ColorIntensity": 2.5,
     "Hue": 2.85,
     "OD280/OD315 of diluted wines": 1.28,
     "Unknown": 3.07
@@ -1059,7 +1059,7 @@
     "Flavanoids": 1.1,
     "Nonflavanoid phenols": 1.02,
     "Proanthocyanins": ".37",
-    "Color intensity": 1.46,
+    "ColorIntensity": 1.46,
     "Hue": 3.05,
     "OD280/OD315 of diluted wines": ".906",
     "Unknown": 1.82
@@ -1074,7 +1074,7 @@
     "Flavanoids": 2.95,
     "Nonflavanoid phenols": 2.86,
     "Proanthocyanins": ".21",
-    "Color intensity": 1.87,
+    "ColorIntensity": 1.87,
     "Hue": 3.38,
     "OD280/OD315 of diluted wines": 1.36,
     "Unknown": 3.16
@@ -1089,7 +1089,7 @@
     "Flavanoids": 1.88,
     "Nonflavanoid phenols": 1.84,
     "Proanthocyanins": ".27",
-    "Color intensity": 1.03,
+    "ColorIntensity": 1.03,
     "Hue": 3.74,
     "OD280/OD315 of diluted wines": ".98",
     "Unknown": 2.78
@@ -1104,7 +1104,7 @@
     "Flavanoids": 3.3,
     "Nonflavanoid phenols": 2.89,
     "Proanthocyanins": ".21",
-    "Color intensity": 1.96,
+    "ColorIntensity": 1.96,
     "Hue": 3.35,
     "OD280/OD315 of diluted wines": 1.31,
     "Unknown": 3.5
@@ -1119,7 +1119,7 @@
     "Flavanoids": 3.38,
     "Nonflavanoid phenols": 2.14,
     "Proanthocyanins": ".13",
-    "Color intensity": 1.65,
+    "ColorIntensity": 1.65,
     "Hue": 3.21,
     "OD280/OD315 of diluted wines": ".99",
     "Unknown": 3.13
@@ -1134,7 +1134,7 @@
     "Flavanoids": 1.61,
     "Nonflavanoid phenols": 1.57,
     "Proanthocyanins": ".34",
-    "Color intensity": 1.15,
+    "ColorIntensity": 1.15,
     "Hue": 3.8,
     "OD280/OD315 of diluted wines": 1.23,
     "Unknown": 2.14
@@ -1149,7 +1149,7 @@
     "Flavanoids": 1.95,
     "Nonflavanoid phenols": 2.03,
     "Proanthocyanins": ".24",
-    "Color intensity": 1.46,
+    "ColorIntensity": 1.46,
     "Hue": 4.6,
     "OD280/OD315 of diluted wines": 1.19,
     "Unknown": 2.48
@@ -1164,7 +1164,7 @@
     "Flavanoids": 1.72,
     "Nonflavanoid phenols": 1.32,
     "Proanthocyanins": ".43",
-    "Color intensity": ".95",
+    "ColorIntensity": ".95",
     "Hue": 2.65,
     "OD280/OD315 of diluted wines": ".96",
     "Unknown": 2.52
@@ -1179,7 +1179,7 @@
     "Flavanoids": 1.9,
     "Nonflavanoid phenols": 1.85,
     "Proanthocyanins": ".35",
-    "Color intensity": 2.76,
+    "ColorIntensity": 2.76,
     "Hue": 3.4,
     "OD280/OD315 of diluted wines": 1.06,
     "Unknown": 2.31
@@ -1194,7 +1194,7 @@
     "Flavanoids": 2.83,
     "Nonflavanoid phenols": 2.55,
     "Proanthocyanins": ".43",
-    "Color intensity": 1.95,
+    "ColorIntensity": 1.95,
     "Hue": 2.57,
     "OD280/OD315 of diluted wines": 1.19,
     "Unknown": 3.13
@@ -1209,7 +1209,7 @@
     "Flavanoids": 2.42,
     "Nonflavanoid phenols": 2.26,
     "Proanthocyanins": ".3",
-    "Color intensity": 1.43,
+    "ColorIntensity": 1.43,
     "Hue": 2.5,
     "OD280/OD315 of diluted wines": 1.38,
     "Unknown": 3.12
@@ -1224,7 +1224,7 @@
     "Flavanoids": 2.2,
     "Nonflavanoid phenols": 2.53,
     "Proanthocyanins": ".26",
-    "Color intensity": 1.77,
+    "ColorIntensity": 1.77,
     "Hue": 3.9,
     "OD280/OD315 of diluted wines": 1.16,
     "Unknown": 3.14
@@ -1239,7 +1239,7 @@
     "Flavanoids": 2,
     "Nonflavanoid phenols": 1.58,
     "Proanthocyanins": ".4",
-    "Color intensity": 1.4,
+    "ColorIntensity": 1.4,
     "Hue": 2.2,
     "OD280/OD315 of diluted wines": 1.31,
     "Unknown": 2.72
@@ -1254,7 +1254,7 @@
     "Flavanoids": 1.65,
     "Nonflavanoid phenols": 1.59,
     "Proanthocyanins": ".61",
-    "Color intensity": 1.62,
+    "ColorIntensity": 1.62,
     "Hue": 4.8,
     "OD280/OD315 of diluted wines": ".84",
     "Unknown": 2.01
@@ -1269,7 +1269,7 @@
     "Flavanoids": 2.2,
     "Nonflavanoid phenols": 2.21,
     "Proanthocyanins": ".22",
-    "Color intensity": 2.35,
+    "ColorIntensity": 2.35,
     "Hue": 3.05,
     "OD280/OD315 of diluted wines": ".79",
     "Unknown": 3.08
@@ -1284,7 +1284,7 @@
     "Flavanoids": 2.2,
     "Nonflavanoid phenols": 1.94,
     "Proanthocyanins": ".3",
-    "Color intensity": 1.46,
+    "ColorIntensity": 1.46,
     "Hue": 2.62,
     "OD280/OD315 of diluted wines": 1.23,
     "Unknown": 3.16
@@ -1299,7 +1299,7 @@
     "Flavanoids": 1.78,
     "Nonflavanoid phenols": 1.69,
     "Proanthocyanins": ".43",
-    "Color intensity": 1.56,
+    "ColorIntensity": 1.56,
     "Hue": 2.45,
     "OD280/OD315 of diluted wines": 1.33,
     "Unknown": 2.26
@@ -1314,7 +1314,7 @@
     "Flavanoids": 1.92,
     "Nonflavanoid phenols": 1.61,
     "Proanthocyanins": ".4",
-    "Color intensity": 1.34,
+    "ColorIntensity": 1.34,
     "Hue": 2.6,
     "OD280/OD315 of diluted wines": 1.36,
     "Unknown": 3.21
@@ -1329,7 +1329,7 @@
     "Flavanoids": 1.95,
     "Nonflavanoid phenols": 1.69,
     "Proanthocyanins": ".48",
-    "Color intensity": 1.35,
+    "ColorIntensity": 1.35,
     "Hue": 2.8,
     "OD280/OD315 of diluted wines": 1,
     "Unknown": 2.75
@@ -1344,7 +1344,7 @@
     "Flavanoids": 2.2,
     "Nonflavanoid phenols": 1.59,
     "Proanthocyanins": ".42",
-    "Color intensity": 1.38,
+    "ColorIntensity": 1.38,
     "Hue": 1.74,
     "OD280/OD315 of diluted wines": 1.07,
     "Unknown": 3.21
@@ -1359,7 +1359,7 @@
     "Flavanoids": 1.6,
     "Nonflavanoid phenols": 1.5,
     "Proanthocyanins": ".52",
-    "Color intensity": 1.64,
+    "ColorIntensity": 1.64,
     "Hue": 2.4,
     "OD280/OD315 of diluted wines": 1.08,
     "Unknown": 2.27
@@ -1374,7 +1374,7 @@
     "Flavanoids": 1.45,
     "Nonflavanoid phenols": 1.25,
     "Proanthocyanins": ".5",
-    "Color intensity": 1.63,
+    "ColorIntensity": 1.63,
     "Hue": 3.6,
     "OD280/OD315 of diluted wines": 1.05,
     "Unknown": 2.65
@@ -1389,7 +1389,7 @@
     "Flavanoids": 1.38,
     "Nonflavanoid phenols": 1.46,
     "Proanthocyanins": ".58",
-    "Color intensity": 1.62,
+    "ColorIntensity": 1.62,
     "Hue": 3.05,
     "OD280/OD315 of diluted wines": ".96",
     "Unknown": 2.06
@@ -1404,7 +1404,7 @@
     "Flavanoids": 2.45,
     "Nonflavanoid phenols": 2.25,
     "Proanthocyanins": ".25",
-    "Color intensity": 1.99,
+    "ColorIntensity": 1.99,
     "Hue": 2.15,
     "OD280/OD315 of diluted wines": 1.15,
     "Unknown": 3.3
@@ -1419,7 +1419,7 @@
     "Flavanoids": 3.02,
     "Nonflavanoid phenols": 2.26,
     "Proanthocyanins": ".17",
-    "Color intensity": 1.35,
+    "ColorIntensity": 1.35,
     "Hue": 3.25,
     "OD280/OD315 of diluted wines": 1.16,
     "Unknown": 2.96
@@ -1434,7 +1434,7 @@
     "Flavanoids": 2.5,
     "Nonflavanoid phenols": 2.27,
     "Proanthocyanins": ".32",
-    "Color intensity": 3.28,
+    "ColorIntensity": 3.28,
     "Hue": 2.6,
     "OD280/OD315 of diluted wines": 1.16,
     "Unknown": 2.63
@@ -1449,7 +1449,7 @@
     "Flavanoids": 1.6,
     "Nonflavanoid phenols": ".99",
     "Proanthocyanins": ".14",
-    "Color intensity": 1.56,
+    "ColorIntensity": 1.56,
     "Hue": 2.5,
     "OD280/OD315 of diluted wines": ".95",
     "Unknown": 2.26
@@ -1464,7 +1464,7 @@
     "Flavanoids": 2.55,
     "Nonflavanoid phenols": 2.5,
     "Proanthocyanins": ".29",
-    "Color intensity": 1.77,
+    "ColorIntensity": 1.77,
     "Hue": 2.9,
     "OD280/OD315 of diluted wines": 1.23,
     "Unknown": 2.74
@@ -1479,7 +1479,7 @@
     "Flavanoids": 3.52,
     "Nonflavanoid phenols": 3.75,
     "Proanthocyanins": ".24",
-    "Color intensity": 1.95,
+    "ColorIntensity": 1.95,
     "Hue": 4.5,
     "OD280/OD315 of diluted wines": 1.04,
     "Unknown": 2.77
@@ -1494,7 +1494,7 @@
     "Flavanoids": 2.85,
     "Nonflavanoid phenols": 2.99,
     "Proanthocyanins": ".45",
-    "Color intensity": 2.81,
+    "ColorIntensity": 2.81,
     "Hue": 2.3,
     "OD280/OD315 of diluted wines": 1.42,
     "Unknown": 2.83
@@ -1509,7 +1509,7 @@
     "Flavanoids": 2.23,
     "Nonflavanoid phenols": 2.17,
     "Proanthocyanins": ".26",
-    "Color intensity": 1.4,
+    "ColorIntensity": 1.4,
     "Hue": 3.3,
     "OD280/OD315 of diluted wines": 1.27,
     "Unknown": 2.96
@@ -1524,7 +1524,7 @@
     "Flavanoids": 1.45,
     "Nonflavanoid phenols": 1.36,
     "Proanthocyanins": ".29",
-    "Color intensity": 1.35,
+    "ColorIntensity": 1.35,
     "Hue": 2.45,
     "OD280/OD315 of diluted wines": 1.04,
     "Unknown": 2.77
@@ -1539,7 +1539,7 @@
     "Flavanoids": 2.56,
     "Nonflavanoid phenols": 2.11,
     "Proanthocyanins": ".34",
-    "Color intensity": 1.31,
+    "ColorIntensity": 1.31,
     "Hue": 2.8,
     "OD280/OD315 of diluted wines": ".8",
     "Unknown": 3.38
@@ -1554,7 +1554,7 @@
     "Flavanoids": 2.5,
     "Nonflavanoid phenols": 1.64,
     "Proanthocyanins": ".37",
-    "Color intensity": 1.42,
+    "ColorIntensity": 1.42,
     "Hue": 2.06,
     "OD280/OD315 of diluted wines": ".94",
     "Unknown": 2.44
@@ -1569,7 +1569,7 @@
     "Flavanoids": 2.2,
     "Nonflavanoid phenols": 1.92,
     "Proanthocyanins": ".32",
-    "Color intensity": 1.48,
+    "ColorIntensity": 1.48,
     "Hue": 2.94,
     "OD280/OD315 of diluted wines": 1.04,
     "Unknown": 3.57
@@ -1584,7 +1584,7 @@
     "Flavanoids": 1.68,
     "Nonflavanoid phenols": 1.84,
     "Proanthocyanins": ".66",
-    "Color intensity": 1.42,
+    "ColorIntensity": 1.42,
     "Hue": 2.7,
     "OD280/OD315 of diluted wines": ".86",
     "Unknown": 3.3
@@ -1599,7 +1599,7 @@
     "Flavanoids": 1.65,
     "Nonflavanoid phenols": 2.03,
     "Proanthocyanins": ".37",
-    "Color intensity": 1.63,
+    "ColorIntensity": 1.63,
     "Hue": 3.4,
     "OD280/OD315 of diluted wines": 1,
     "Unknown": 3.17
@@ -1614,7 +1614,7 @@
     "Flavanoids": 1.38,
     "Nonflavanoid phenols": 1.76,
     "Proanthocyanins": ".48",
-    "Color intensity": 1.63,
+    "ColorIntensity": 1.63,
     "Hue": 3.3,
     "OD280/OD315 of diluted wines": ".88",
     "Unknown": 2.42
@@ -1629,7 +1629,7 @@
     "Flavanoids": 2.36,
     "Nonflavanoid phenols": 2.04,
     "Proanthocyanins": ".39",
-    "Color intensity": 2.08,
+    "ColorIntensity": 2.08,
     "Hue": 2.7,
     "OD280/OD315 of diluted wines": ".86",
     "Unknown": 3.02
@@ -1644,7 +1644,7 @@
     "Flavanoids": 2.74,
     "Nonflavanoid phenols": 2.92,
     "Proanthocyanins": ".29",
-    "Color intensity": 2.49,
+    "ColorIntensity": 2.49,
     "Hue": 2.65,
     "OD280/OD315 of diluted wines": ".96",
     "Unknown": 3.26
@@ -1659,7 +1659,7 @@
     "Flavanoids": 3.18,
     "Nonflavanoid phenols": 2.58,
     "Proanthocyanins": ".24",
-    "Color intensity": 3.58,
+    "ColorIntensity": 3.58,
     "Hue": 2.9,
     "OD280/OD315 of diluted wines": ".75",
     "Unknown": 2.81
@@ -1674,7 +1674,7 @@
     "Flavanoids": 2.55,
     "Nonflavanoid phenols": 2.27,
     "Proanthocyanins": ".26",
-    "Color intensity": 1.22,
+    "ColorIntensity": 1.22,
     "Hue": 2,
     "OD280/OD315 of diluted wines": ".9",
     "Unknown": 2.78
@@ -1689,7 +1689,7 @@
     "Flavanoids": 1.75,
     "Nonflavanoid phenols": 2.03,
     "Proanthocyanins": ".6",
-    "Color intensity": 1.05,
+    "ColorIntensity": 1.05,
     "Hue": 3.8,
     "OD280/OD315 of diluted wines": 1.23,
     "Unknown": 2.5
@@ -1704,7 +1704,7 @@
     "Flavanoids": 2.48,
     "Nonflavanoid phenols": 2.01,
     "Proanthocyanins": ".42",
-    "Color intensity": 1.44,
+    "ColorIntensity": 1.44,
     "Hue": 3.08,
     "OD280/OD315 of diluted wines": 1.1,
     "Unknown": 2.31
@@ -1719,7 +1719,7 @@
     "Flavanoids": 2.56,
     "Nonflavanoid phenols": 2.29,
     "Proanthocyanins": ".43",
-    "Color intensity": 1.04,
+    "ColorIntensity": 1.04,
     "Hue": 2.9,
     "OD280/OD315 of diluted wines": ".93",
     "Unknown": 3.19
@@ -1734,7 +1734,7 @@
     "Flavanoids": 2.46,
     "Nonflavanoid phenols": 2.17,
     "Proanthocyanins": ".52",
-    "Color intensity": 2.01,
+    "ColorIntensity": 2.01,
     "Hue": 1.9,
     "OD280/OD315 of diluted wines": 1.71,
     "Unknown": 2.87
@@ -1749,7 +1749,7 @@
     "Flavanoids": 1.98,
     "Nonflavanoid phenols": 1.6,
     "Proanthocyanins": ".3",
-    "Color intensity": 1.53,
+    "ColorIntensity": 1.53,
     "Hue": 1.95,
     "OD280/OD315 of diluted wines": ".95",
     "Unknown": 3.33
@@ -1764,7 +1764,7 @@
     "Flavanoids": 2,
     "Nonflavanoid phenols": 2.09,
     "Proanthocyanins": ".34",
-    "Color intensity": 1.61,
+    "ColorIntensity": 1.61,
     "Hue": 2.06,
     "OD280/OD315 of diluted wines": 1.06,
     "Unknown": 2.96
@@ -1779,7 +1779,7 @@
     "Flavanoids": 1.63,
     "Nonflavanoid phenols": 1.25,
     "Proanthocyanins": ".43",
-    "Color intensity": ".83",
+    "ColorIntensity": ".83",
     "Hue": 3.4,
     "OD280/OD315 of diluted wines": ".7",
     "Unknown": 2.12
@@ -1794,7 +1794,7 @@
     "Flavanoids": 2,
     "Nonflavanoid phenols": 1.64,
     "Proanthocyanins": ".37",
-    "Color intensity": 1.87,
+    "ColorIntensity": 1.87,
     "Hue": 1.28,
     "OD280/OD315 of diluted wines": ".93",
     "Unknown": 3.05
@@ -1809,7 +1809,7 @@
     "Flavanoids": 2.9,
     "Nonflavanoid phenols": 2.79,
     "Proanthocyanins": ".32",
-    "Color intensity": 1.83,
+    "ColorIntensity": 1.83,
     "Hue": 3.25,
     "OD280/OD315 of diluted wines": ".8",
     "Unknown": 3.39
@@ -1824,7 +1824,7 @@
     "Flavanoids": 3.18,
     "Nonflavanoid phenols": 5.08,
     "Proanthocyanins": ".47",
-    "Color intensity": 1.87,
+    "ColorIntensity": 1.87,
     "Hue": 6,
     "OD280/OD315 of diluted wines": ".93",
     "Unknown": 3.69
@@ -1839,7 +1839,7 @@
     "Flavanoids": 2.2,
     "Nonflavanoid phenols": 2.13,
     "Proanthocyanins": ".43",
-    "Color intensity": 1.71,
+    "ColorIntensity": 1.71,
     "Hue": 2.08,
     "OD280/OD315 of diluted wines": ".92",
     "Unknown": 3.12
@@ -1854,7 +1854,7 @@
     "Flavanoids": 2.62,
     "Nonflavanoid phenols": 2.65,
     "Proanthocyanins": ".3",
-    "Color intensity": 2.01,
+    "ColorIntensity": 2.01,
     "Hue": 2.6,
     "OD280/OD315 of diluted wines": ".73",
     "Unknown": 3.1
@@ -1869,7 +1869,7 @@
     "Flavanoids": 2.86,
     "Nonflavanoid phenols": 3.03,
     "Proanthocyanins": ".21",
-    "Color intensity": 2.91,
+    "ColorIntensity": 2.91,
     "Hue": 2.8,
     "OD280/OD315 of diluted wines": ".75",
     "Unknown": 3.64
@@ -1884,7 +1884,7 @@
     "Flavanoids": 2.6,
     "Nonflavanoid phenols": 2.65,
     "Proanthocyanins": ".37",
-    "Color intensity": 1.35,
+    "ColorIntensity": 1.35,
     "Hue": 2.76,
     "OD280/OD315 of diluted wines": ".86",
     "Unknown": 3.28
@@ -1899,7 +1899,7 @@
     "Flavanoids": 2.74,
     "Nonflavanoid phenols": 3.15,
     "Proanthocyanins": ".39",
-    "Color intensity": 1.77,
+    "ColorIntensity": 1.77,
     "Hue": 3.94,
     "OD280/OD315 of diluted wines": ".69",
     "Unknown": 2.84
@@ -1914,7 +1914,7 @@
     "Flavanoids": 2.13,
     "Nonflavanoid phenols": 2.24,
     "Proanthocyanins": ".58",
-    "Color intensity": 1.76,
+    "ColorIntensity": 1.76,
     "Hue": 3,
     "OD280/OD315 of diluted wines": ".97",
     "Unknown": 2.44
@@ -1929,7 +1929,7 @@
     "Flavanoids": 2.22,
     "Nonflavanoid phenols": 2.45,
     "Proanthocyanins": ".4",
-    "Color intensity": 1.9,
+    "ColorIntensity": 1.9,
     "Hue": 2.12,
     "OD280/OD315 of diluted wines": ".89",
     "Unknown": 2.78
@@ -1944,7 +1944,7 @@
     "Flavanoids": 2.1,
     "Nonflavanoid phenols": 1.75,
     "Proanthocyanins": ".42",
-    "Color intensity": 1.35,
+    "ColorIntensity": 1.35,
     "Hue": 2.6,
     "OD280/OD315 of diluted wines": ".79",
     "Unknown": 2.57
@@ -1959,7 +1959,7 @@
     "Flavanoids": 1.51,
     "Nonflavanoid phenols": 1.25,
     "Proanthocyanins": ".21",
-    "Color intensity": ".94",
+    "ColorIntensity": ".94",
     "Hue": 4.1,
     "OD280/OD315 of diluted wines": ".76",
     "Unknown": 1.29
@@ -1974,7 +1974,7 @@
     "Flavanoids": 1.3,
     "Nonflavanoid phenols": 1.22,
     "Proanthocyanins": ".24",
-    "Color intensity": ".83",
+    "ColorIntensity": ".83",
     "Hue": 5.4,
     "OD280/OD315 of diluted wines": ".74",
     "Unknown": 1.42
@@ -1989,7 +1989,7 @@
     "Flavanoids": 1.15,
     "Nonflavanoid phenols": 1.09,
     "Proanthocyanins": ".27",
-    "Color intensity": ".83",
+    "ColorIntensity": ".83",
     "Hue": 5.7,
     "OD280/OD315 of diluted wines": ".66",
     "Unknown": 1.36
@@ -2004,7 +2004,7 @@
     "Flavanoids": 1.7,
     "Nonflavanoid phenols": 1.2,
     "Proanthocyanins": ".17",
-    "Color intensity": ".84",
+    "ColorIntensity": ".84",
     "Hue": 5,
     "OD280/OD315 of diluted wines": ".78",
     "Unknown": 1.29
@@ -2019,7 +2019,7 @@
     "Flavanoids": 2,
     "Nonflavanoid phenols": ".58",
     "Proanthocyanins": ".6",
-    "Color intensity": 1.25,
+    "ColorIntensity": 1.25,
     "Hue": 5.45,
     "OD280/OD315 of diluted wines": ".75",
     "Unknown": 1.51
@@ -2034,7 +2034,7 @@
     "Flavanoids": 1.62,
     "Nonflavanoid phenols": ".66",
     "Proanthocyanins": ".63",
-    "Color intensity": ".94",
+    "ColorIntensity": ".94",
     "Hue": 7.1,
     "OD280/OD315 of diluted wines": ".73",
     "Unknown": 1.58
@@ -2049,7 +2049,7 @@
     "Flavanoids": 1.38,
     "Nonflavanoid phenols": ".47",
     "Proanthocyanins": ".53",
-    "Color intensity": ".8",
+    "ColorIntensity": ".8",
     "Hue": 3.85,
     "OD280/OD315 of diluted wines": ".75",
     "Unknown": 1.27
@@ -2064,7 +2064,7 @@
     "Flavanoids": 1.79,
     "Nonflavanoid phenols": ".6",
     "Proanthocyanins": ".63",
-    "Color intensity": 1.1,
+    "ColorIntensity": 1.1,
     "Hue": 5,
     "OD280/OD315 of diluted wines": ".82",
     "Unknown": 1.69
@@ -2079,7 +2079,7 @@
     "Flavanoids": 1.62,
     "Nonflavanoid phenols": ".48",
     "Proanthocyanins": ".58",
-    "Color intensity": ".88",
+    "ColorIntensity": ".88",
     "Hue": 5.7,
     "OD280/OD315 of diluted wines": ".81",
     "Unknown": 1.82
@@ -2094,7 +2094,7 @@
     "Flavanoids": 2.32,
     "Nonflavanoid phenols": ".6",
     "Proanthocyanins": ".53",
-    "Color intensity": ".81",
+    "ColorIntensity": ".81",
     "Hue": 4.92,
     "OD280/OD315 of diluted wines": ".89",
     "Unknown": 2.15
@@ -2109,7 +2109,7 @@
     "Flavanoids": 1.54,
     "Nonflavanoid phenols": ".5",
     "Proanthocyanins": ".53",
-    "Color intensity": ".75",
+    "ColorIntensity": ".75",
     "Hue": 4.6,
     "OD280/OD315 of diluted wines": ".77",
     "Unknown": 2.31
@@ -2124,7 +2124,7 @@
     "Flavanoids": 1.4,
     "Nonflavanoid phenols": ".5",
     "Proanthocyanins": ".37",
-    "Color intensity": ".64",
+    "ColorIntensity": ".64",
     "Hue": 5.6,
     "OD280/OD315 of diluted wines": ".7",
     "Unknown": 2.47
@@ -2139,7 +2139,7 @@
     "Flavanoids": 1.55,
     "Nonflavanoid phenols": ".52",
     "Proanthocyanins": ".5",
-    "Color intensity": ".55",
+    "ColorIntensity": ".55",
     "Hue": 4.35,
     "OD280/OD315 of diluted wines": ".89",
     "Unknown": 2.06
@@ -2154,7 +2154,7 @@
     "Flavanoids": 2,
     "Nonflavanoid phenols": ".8",
     "Proanthocyanins": ".47",
-    "Color intensity": 1.02,
+    "ColorIntensity": 1.02,
     "Hue": 4.4,
     "OD280/OD315 of diluted wines": ".91",
     "Unknown": 2.05
@@ -2169,7 +2169,7 @@
     "Flavanoids": 1.38,
     "Nonflavanoid phenols": ".78",
     "Proanthocyanins": ".29",
-    "Color intensity": 1.14,
+    "ColorIntensity": 1.14,
     "Hue": 8.21,
     "OD280/OD315 of diluted wines": ".65",
     "Unknown": 2
@@ -2184,7 +2184,7 @@
     "Flavanoids": 1.5,
     "Nonflavanoid phenols": ".55",
     "Proanthocyanins": ".43",
-    "Color intensity": 1.3,
+    "ColorIntensity": 1.3,
     "Hue": 4,
     "OD280/OD315 of diluted wines": ".6",
     "Unknown": 1.68
@@ -2199,7 +2199,7 @@
     "Flavanoids": ".98",
     "Nonflavanoid phenols": ".34",
     "Proanthocyanins": ".4",
-    "Color intensity": ".68",
+    "ColorIntensity": ".68",
     "Hue": 4.9,
     "OD280/OD315 of diluted wines": ".58",
     "Unknown": 1.33
@@ -2214,7 +2214,7 @@
     "Flavanoids": 1.7,
     "Nonflavanoid phenols": ".65",
     "Proanthocyanins": ".47",
-    "Color intensity": ".86",
+    "ColorIntensity": ".86",
     "Hue": 7.65,
     "OD280/OD315 of diluted wines": ".54",
     "Unknown": 1.86
@@ -2229,7 +2229,7 @@
     "Flavanoids": 1.93,
     "Nonflavanoid phenols": ".76",
     "Proanthocyanins": ".45",
-    "Color intensity": 1.25,
+    "ColorIntensity": 1.25,
     "Hue": 8.42,
     "OD280/OD315 of diluted wines": ".55",
     "Unknown": 1.62
@@ -2244,7 +2244,7 @@
     "Flavanoids": 1.41,
     "Nonflavanoid phenols": 1.39,
     "Proanthocyanins": ".34",
-    "Color intensity": 1.14,
+    "ColorIntensity": 1.14,
     "Hue": 9.4,
     "OD280/OD315 of diluted wines": ".57",
     "Unknown": 1.33
@@ -2259,7 +2259,7 @@
     "Flavanoids": 1.4,
     "Nonflavanoid phenols": 1.57,
     "Proanthocyanins": ".22",
-    "Color intensity": 1.25,
+    "ColorIntensity": 1.25,
     "Hue": 8.6,
     "OD280/OD315 of diluted wines": ".59",
     "Unknown": 1.3
@@ -2274,7 +2274,7 @@
     "Flavanoids": 1.48,
     "Nonflavanoid phenols": 1.36,
     "Proanthocyanins": ".24",
-    "Color intensity": 1.26,
+    "ColorIntensity": 1.26,
     "Hue": 10.8,
     "OD280/OD315 of diluted wines": ".48",
     "Unknown": 1.47
@@ -2289,7 +2289,7 @@
     "Flavanoids": 2.2,
     "Nonflavanoid phenols": 1.28,
     "Proanthocyanins": ".26",
-    "Color intensity": 1.56,
+    "ColorIntensity": 1.56,
     "Hue": 7.1,
     "OD280/OD315 of diluted wines": ".61",
     "Unknown": 1.33
@@ -2304,7 +2304,7 @@
     "Flavanoids": 1.8,
     "Nonflavanoid phenols": ".83",
     "Proanthocyanins": ".61",
-    "Color intensity": 1.87,
+    "ColorIntensity": 1.87,
     "Hue": 10.52,
     "OD280/OD315 of diluted wines": ".56",
     "Unknown": 1.51
@@ -2319,7 +2319,7 @@
     "Flavanoids": 1.48,
     "Nonflavanoid phenols": ".58",
     "Proanthocyanins": ".53",
-    "Color intensity": 1.4,
+    "ColorIntensity": 1.4,
     "Hue": 7.6,
     "OD280/OD315 of diluted wines": ".58",
     "Unknown": 1.55
@@ -2334,7 +2334,7 @@
     "Flavanoids": 1.74,
     "Nonflavanoid phenols": ".63",
     "Proanthocyanins": ".61",
-    "Color intensity": 1.55,
+    "ColorIntensity": 1.55,
     "Hue": 7.9,
     "OD280/OD315 of diluted wines": ".6",
     "Unknown": 1.48
@@ -2349,7 +2349,7 @@
     "Flavanoids": 1.8,
     "Nonflavanoid phenols": ".83",
     "Proanthocyanins": ".48",
-    "Color intensity": 1.56,
+    "ColorIntensity": 1.56,
     "Hue": 9.01,
     "OD280/OD315 of diluted wines": ".57",
     "Unknown": 1.64
@@ -2364,7 +2364,7 @@
     "Flavanoids": 1.9,
     "Nonflavanoid phenols": ".58",
     "Proanthocyanins": ".63",
-    "Color intensity": 1.14,
+    "ColorIntensity": 1.14,
     "Hue": 7.5,
     "OD280/OD315 of diluted wines": ".67",
     "Unknown": 1.73
@@ -2379,7 +2379,7 @@
     "Flavanoids": 2.8,
     "Nonflavanoid phenols": 1.31,
     "Proanthocyanins": ".53",
-    "Color intensity": 2.7,
+    "ColorIntensity": 2.7,
     "Hue": 13,
     "OD280/OD315 of diluted wines": ".57",
     "Unknown": 1.96
@@ -2394,7 +2394,7 @@
     "Flavanoids": 2.6,
     "Nonflavanoid phenols": 1.1,
     "Proanthocyanins": ".52",
-    "Color intensity": 2.29,
+    "ColorIntensity": 2.29,
     "Hue": 11.75,
     "OD280/OD315 of diluted wines": ".57",
     "Unknown": 1.78
@@ -2409,7 +2409,7 @@
     "Flavanoids": 2.3,
     "Nonflavanoid phenols": ".92",
     "Proanthocyanins": ".5",
-    "Color intensity": 1.04,
+    "ColorIntensity": 1.04,
     "Hue": 7.65,
     "OD280/OD315 of diluted wines": ".56",
     "Unknown": 1.58
@@ -2424,7 +2424,7 @@
     "Flavanoids": 1.83,
     "Nonflavanoid phenols": ".56",
     "Proanthocyanins": ".5",
-    "Color intensity": ".8",
+    "ColorIntensity": ".8",
     "Hue": 5.88,
     "OD280/OD315 of diluted wines": ".96",
     "Unknown": 1.82
@@ -2439,7 +2439,7 @@
     "Flavanoids": 1.65,
     "Nonflavanoid phenols": ".6",
     "Proanthocyanins": ".6",
-    "Color intensity": ".96",
+    "ColorIntensity": ".96",
     "Hue": 5.58,
     "OD280/OD315 of diluted wines": ".87",
     "Unknown": 2.11
@@ -2454,7 +2454,7 @@
     "Flavanoids": 1.39,
     "Nonflavanoid phenols": ".7",
     "Proanthocyanins": ".4",
-    "Color intensity": ".94",
+    "ColorIntensity": ".94",
     "Hue": 5.28,
     "OD280/OD315 of diluted wines": ".68",
     "Unknown": 1.75
@@ -2469,7 +2469,7 @@
     "Flavanoids": 1.35,
     "Nonflavanoid phenols": ".68",
     "Proanthocyanins": ".41",
-    "Color intensity": 1.03,
+    "ColorIntensity": 1.03,
     "Hue": 9.58,
     "OD280/OD315 of diluted wines": ".7",
     "Unknown": 1.68
@@ -2484,7 +2484,7 @@
     "Flavanoids": 1.28,
     "Nonflavanoid phenols": ".47",
     "Proanthocyanins": ".52",
-    "Color intensity": 1.15,
+    "ColorIntensity": 1.15,
     "Hue": 6.62,
     "OD280/OD315 of diluted wines": ".78",
     "Unknown": 1.75
@@ -2499,7 +2499,7 @@
     "Flavanoids": 1.7,
     "Nonflavanoid phenols": ".92",
     "Proanthocyanins": ".43",
-    "Color intensity": 1.46,
+    "ColorIntensity": 1.46,
     "Hue": 10.68,
     "OD280/OD315 of diluted wines": ".85",
     "Unknown": 1.56
@@ -2514,7 +2514,7 @@
     "Flavanoids": 1.48,
     "Nonflavanoid phenols": ".66",
     "Proanthocyanins": ".4",
-    "Color intensity": ".97",
+    "ColorIntensity": ".97",
     "Hue": 10.26,
     "OD280/OD315 of diluted wines": ".72",
     "Unknown": 1.75
@@ -2529,7 +2529,7 @@
     "Flavanoids": 1.55,
     "Nonflavanoid phenols": ".84",
     "Proanthocyanins": ".39",
-    "Color intensity": 1.54,
+    "ColorIntensity": 1.54,
     "Hue": 8.66,
     "OD280/OD315 of diluted wines": ".74",
     "Unknown": 1.8
@@ -2544,7 +2544,7 @@
     "Flavanoids": 1.98,
     "Nonflavanoid phenols": ".96",
     "Proanthocyanins": ".27",
-    "Color intensity": 1.11,
+    "ColorIntensity": 1.11,
     "Hue": 8.5,
     "OD280/OD315 of diluted wines": ".67",
     "Unknown": 1.92
@@ -2559,7 +2559,7 @@
     "Flavanoids": 1.25,
     "Nonflavanoid phenols": ".49",
     "Proanthocyanins": ".4",
-    "Color intensity": ".73",
+    "ColorIntensity": ".73",
     "Hue": 5.5,
     "OD280/OD315 of diluted wines": ".66",
     "Unknown": 1.83
@@ -2574,7 +2574,7 @@
     "Flavanoids": 1.39,
     "Nonflavanoid phenols": ".51",
     "Proanthocyanins": ".48",
-    "Color intensity": ".64",
+    "ColorIntensity": ".64",
     "Hue": 9.899999,
     "OD280/OD315 of diluted wines": ".57",
     "Unknown": 1.63
@@ -2589,7 +2589,7 @@
     "Flavanoids": 1.68,
     "Nonflavanoid phenols": ".7",
     "Proanthocyanins": ".44",
-    "Color intensity": 1.24,
+    "ColorIntensity": 1.24,
     "Hue": 9.7,
     "OD280/OD315 of diluted wines": ".62",
     "Unknown": 1.71
@@ -2604,7 +2604,7 @@
     "Flavanoids": 1.68,
     "Nonflavanoid phenols": ".61",
     "Proanthocyanins": ".52",
-    "Color intensity": 1.06,
+    "ColorIntensity": 1.06,
     "Hue": 7.7,
     "OD280/OD315 of diluted wines": ".64",
     "Unknown": 1.74
@@ -2619,7 +2619,7 @@
     "Flavanoids": 1.8,
     "Nonflavanoid phenols": ".75",
     "Proanthocyanins": ".43",
-    "Color intensity": 1.41,
+    "ColorIntensity": 1.41,
     "Hue": 7.3,
     "OD280/OD315 of diluted wines": ".7",
     "Unknown": 1.56
@@ -2634,7 +2634,7 @@
     "Flavanoids": 1.59,
     "Nonflavanoid phenols": ".69",
     "Proanthocyanins": ".43",
-    "Color intensity": 1.35,
+    "ColorIntensity": 1.35,
     "Hue": 10.2,
     "OD280/OD315 of diluted wines": ".59",
     "Unknown": 1.56
@@ -2649,7 +2649,7 @@
     "Flavanoids": 1.65,
     "Nonflavanoid phenols": ".68",
     "Proanthocyanins": ".53",
-    "Color intensity": 1.46,
+    "ColorIntensity": 1.46,
     "Hue": 9.3,
     "OD280/OD315 of diluted wines": ".6",
     "Unknown": 1.62
@@ -2664,7 +2664,7 @@
     "Flavanoids": 2.05,
     "Nonflavanoid phenols": ".76",
     "Proanthocyanins": ".56",
-    "Color intensity": 1.35,
+    "ColorIntensity": 1.35,
     "Hue": 9.2,
     "OD280/OD315 of diluted wines": ".61",
     "Unknown": 1.6
