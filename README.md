@@ -20,4 +20,4 @@ yarn build
 
 ### Scatter Plot
 
-![Scatter Plot](./public/ScatterPlot.jpg?raw=true "Scatter Plot")
+![Scatter Plot](./public/Scatter%20Plot.jpg?raw=true "Scatter Plot")

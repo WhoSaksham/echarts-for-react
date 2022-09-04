@@ -12,17 +12,19 @@ function ScatterPlot() {
     const option = {
         xAxis: {
             type: 'category',
-            name: 'Color Intensity' // X-Axis Label name
+            name: 'Color Intensity', // X-Axis Label name
+            data: [...colorIntensity]
         },
         yAxis: {
-            type: 'category',
-            name: 'Hue' // Y-Axis Label name
+            type: 'value',
+            name: 'Hue', // Y-Axis Label name
+            data: [...hue]
         },
         series: [
             {
                 symbolSize: 7,
                 data: [
-                    ...colorIntensity, ...hue // Used spread operator to provide values to be visualized
+                    ...hue // Used spread operator to provide values to be visualized
                 ],
                 type: 'scatter'
             }
