@@ -17,8 +17,7 @@ function ScatterPlot() {
         },
         yAxis: {
             type: 'value',
-            name: 'Hue', // Y-Axis Label name
-            data: [...hue]
+            name: 'Hue' // Y-Axis Label name
         },
         series: [
             {
